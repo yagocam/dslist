@@ -21,15 +21,11 @@ A aplicação consiste em uma pesquisa de games e suas listas, para mostrar o ra
 - JPA / Hibernate
 - Maven
 
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
